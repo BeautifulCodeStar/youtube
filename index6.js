@@ -1,4 +1,4 @@
-/Start puppeteer and moment
+//Start puppeteer and moment
 const puppeteer = require('puppeteer');
 const moment = require('moment');
 // Upwork test
