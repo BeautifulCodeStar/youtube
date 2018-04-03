@@ -1,7 +1,7 @@
 /Start puppeteer and moment
 const puppeteer = require('puppeteer');
 const moment = require('moment');
-
+// Upwork test
 //Array for flattening array of arrays into normal array
 function flatten(array) {
   return array.reduce(function(memo, el) {
